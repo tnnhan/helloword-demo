@@ -1,2 +1,0 @@
-# helloword-demo
-helloword demo
